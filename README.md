@@ -6,12 +6,12 @@ My name es is Daniel. I'm from Argentina and I'm Scrum Master/Business Analyst/D
 
 ## Skills
 
-✨More than 10 years of experience as a Technical Business Analyst for multiple industries.
-✨Precursor and evangelizer of the use of agile methodologies.
-✨Specialized developer of AS400 (ISERIES) enviroments, Cobol and RPG 400.
-✨Good knowledge of Microsoft Technologies.
-✨Constant help to the teams being support in development and testing.
-✨Likes to teach and learn every day
+✨More than 10 years of experience as a Technical Business Analyst for multiple industries.  
+✨Precursor and evangelizer of the use of agile methodologies.  
+✨Specialized developer of AS400 (ISERIES) enviroments, Cobol and RPG 400. Also work with Python and Javascript.  
+✨Good knowledge of Microsoft Technologies.  
+✨Constant help to the teams being support in development and testing.  
+✨Likes to teach and learn every day  
 
 ## Contact
 
